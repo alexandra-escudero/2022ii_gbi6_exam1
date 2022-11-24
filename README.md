@@ -1,6 +1,6 @@
 bioinformatica grupo 1
 
-<img src="git.png" alt="imagen">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gnu-bash-logo.svg/2560px-Gnu-bash-logo.svg.png" alt="imagen">
 
 
 datos personales: Kimberly Alexandra Escudero Castellano, 26 años, Quito
